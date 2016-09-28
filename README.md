@@ -1,5 +1,6 @@
 # Microsoft Cognitive Frontend
 ## Demo App for Facial Recognition and Tagging with the Microsoft Cognitive APIs
+## For Use with [msft-cognitive-server] (https://github.com/jalexanderqed/msft-cognitive-server)
 
 This is an Android Studio project containing an app that will take a 
 picture and upload it to a remote server for tagging with age, gender, 
